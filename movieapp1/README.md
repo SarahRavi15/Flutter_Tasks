@@ -1,16 +1,17 @@
-# movieapp1
+# MovieApp1 🎥
 
-A new Flutter project.
+A Flutter application to browse and explore movie details with a clean and interactive UI.
 
-## Getting Started
+## Features ✨
+- **MVVM Architecture**: Ensures maintainable and scalable code.
+- **ExpansionTile**: Allows users to expand and view detailed movie information.
+- **RichText Widget**: Displays text with dynamic styling for a better user experience.
+- **State Management**: Uses the `Provider` package for efficient and reactive UI updates.
 
-This project is a starting point for a Flutter application.
+## Getting Started 🚀
+To run this project locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/movieapp1.git
+   cd movieapp1
